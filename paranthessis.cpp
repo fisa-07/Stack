@@ -13,7 +13,7 @@ int main(){
         {
             if(s.empty())
             {
-               cout<<"Not Match";
+               cout<<"Parenthessis is Not Matched";
                return 0;
             }
             s.pop();
